@@ -1,0 +1,1 @@
+"This is my own implementation of Linear Regression model. Here i create some linear data with random jitter. And training my model on it to find the line of best fit using the gradient descent. There are some plots which show how the line was changing during the training process." 
